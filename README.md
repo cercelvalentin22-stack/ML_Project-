@@ -2,10 +2,6 @@
 
 This project predicts whether the S&P 500 will close higher on the next trading day using live financial market data.
 
-## Important correction
-
-This version does **not** use `Index2018.csv` and does **not** stop at 2018.
-
 Every time you run the project, it downloads updated data from Yahoo Finance using `yfinance`, from 1994 until the latest available trading day.
 
 ## Data source
